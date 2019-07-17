@@ -1,0 +1,31 @@
+
+@charset "UTF-8";
+
+
+div#interface {
+    background-color: #000000;
+}
+
+
+header#cabecalho {
+     background-color: #000000;
+     color: #ffffff;
+}
+div#interface {
+     background-color: #000000;
+     color: #ffffff;
+}
+div#corpo {
+     background-color: #000000;
+     color: #ffffff;
+}
+
+
+footer#rodape {
+    background-color: #000000;
+    clear: both;
+    border-top: 0.5px solid #606060;
+
+}
+
+
